@@ -4,7 +4,7 @@
 
 The main Mathematica notebook `chaotic_ecosystem_code.nb` contains sections necessary to regenerate each result and figure in the manuscript "A phase transition induces chaos in a predator-prey ecosystem with a dynamic fitness landscape"
 
-If using any of these results or code, please cite:
+If using any of these results or code, please cite [our paper about this system](https://doi.org/10.1371/journal.pcbi.1005644):
 
 	William Gilpin and Marcus W. Feldman. "A phase transition induces chaos in a predator-prey ecosystem with a dynamic fitness landscape" PLOS Computational Biology, 2017.
 
