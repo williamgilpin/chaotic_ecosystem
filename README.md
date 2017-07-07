@@ -6,7 +6,7 @@ The main Mathematica notebook `chaotic_ecosystem_code.nb` contains sections nece
 
 If using any of these results or code, please cite:
 
-	William Gilpin and Marcus W. Feldman. "A phase transition induces chaos in a predator-prey ecosystem with a dynamic fitness landscape" (under revision) 2017
+	William Gilpin and Marcus W. Feldman. "A phase transition induces chaos in a predator-prey ecosystem with a dynamic fitness landscape" PLOS Computational Biology, 2017.
 
 
 
